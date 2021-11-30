@@ -1,0 +1,3 @@
+author_data_choice : True
+test_percent : 30
+data_augmentation : True

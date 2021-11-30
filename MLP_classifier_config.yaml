@@ -1,0 +1,3 @@
+hidden_layer_sizes_MLP : (64,32)
+learning_rate_init_MLP : 0.01
+max_iter_MLP : 100

@@ -1,0 +1,6 @@
+vector_size  : 700
+window : 3
+min_count : 3
+sg : 0
+train_new_word2vec : False
+tsne_word : treatment
